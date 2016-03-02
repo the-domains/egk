@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T19:14:37.330Z'
-dateModified: '2016-03-02T19:13:54.225Z'
+datePublished: '2016-03-02T19:25:58.494Z'
+dateModified: '2016-03-02T19:18:54.720Z'
 title: Personal perception of the universe artistically embodied by any conventional means is art.
 author: []
 sourcePath: _posts/2016-03-02-personal-perception-of-the-universe-artistically-embodied-by.md
@@ -23,7 +23,6 @@ _type: Blurb
 
 ---
 # Personal perception of the universe artistically embodied by any conventional means is art.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/90bd5913f9e41c07d71e65280fb83a08e51c3f43.jpg)
 
 ## Art is a tender song, immortal, undefeatable, inherent to life
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/70c180de7c4608145638b3cc6f111d7b37045ce8.jpg)
@@ -43,6 +42,7 @@ _type: Blurb
 > The art of painting is thinking in paints; it is a wish, a daring dream, to challenge transience, death, disappearance. And I am one simple man whose, only purpose is painting, and neither have I ever failed it nor has it ever failed me.
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e53933318c872c5fdecf68387a7f4a7c78b2638f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/90bd5913f9e41c07d71e65280fb83a08e51c3f43.jpg)
 
 EDMOND GABRIEL KALANDADZE (1923-2014)
 
