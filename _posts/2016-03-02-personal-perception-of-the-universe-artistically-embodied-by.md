@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T18:43:53.965Z'
-dateModified: '2016-03-02T18:43:18.972Z'
+datePublished: '2016-03-02T18:51:50.109Z'
+dateModified: '2016-03-02T18:44:55.539Z'
 title: Personal perception of the universe artistically embodied by any conventional means is art.
 author: []
 sourcePath: _posts/2016-03-02-personal-perception-of-the-universe-artistically-embodied-by.md
@@ -37,13 +37,12 @@ _type: Article
 
 > Real painting, as one person aptly said, resembles precious stones crushed against canvases; precise definition, precious stones crushed against flat surface. In painting every dab of color must be colorful and unique and at the same time attuned to the harmonious whole of the picture. A very difficult task indeed.
 
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1952abc6c58decf0c3be5d4deb2518bb87c2f74e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dea1c1b1e29bcea2fe87d3c4b6f8853a2e72534d.jpg)
 
 > The art of painting is thinking in paints; it is a wish, a daring dream, to challenge transience, death, disappearance. And I am one simple man whose, only purpose is painting, and neither have I ever failed it nor has it ever failed me.
 
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dea1c1b1e29bcea2fe87d3c4b6f8853a2e72534d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e53933318c872c5fdecf68387a7f4a7c78b2638f.jpg)
 
 EDMOND GABRIEL KALANDADZE (1923-2014)
 
 The artist painted figuratively and played with all possible kinds of expressive forms. One of the most famous artists in his country, lauded by many awards. His paintings can be seen in the Georgian State Museum and in the National Galery in Tbilisi, in the Tretjakow Galery and in the Museum of Oriental Art in Moscow. For fourteen years he taught as a professor of drawing and painting at the State Academy. In 1991, after the independence from the the Soviet Union, Kalandadze was appointed the first Georgian Minister of Culture.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e53933318c872c5fdecf68387a7f4a7c78b2638f.jpg)
