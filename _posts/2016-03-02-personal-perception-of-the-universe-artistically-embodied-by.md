@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T17:42:53.765Z'
-dateModified: '2016-03-02T17:41:59.043Z'
+datePublished: '2016-03-02T17:45:35.792Z'
+dateModified: '2016-03-02T17:45:26.172Z'
 title: Personal perception of the universe artistically embodied by any conventional means is art.
 author: []
 sourcePath: _posts/2016-03-02-personal-perception-of-the-universe-artistically-embodied-by.md
