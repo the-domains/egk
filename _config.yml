@@ -1,6 +1,6 @@
 name: egk
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.49573
 typography_spectrum: 0.78092
 title: Edmond Gabriel Kalandadze
 cta:
@@ -24,6 +24,6 @@ color:
     - '#d1d1d1'
   brandStrength: 0
   lightness: 1
-  saturation: 0.25
+  saturation: 0
   rhythmicContrast: 0
 purpose: []
