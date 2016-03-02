@@ -1,13 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T19:01:09.432Z'
-dateModified: '2016-03-02T19:00:57.445Z'
+datePublished: '2016-03-02T19:08:37.845Z'
+dateModified: '2016-03-02T19:07:02.260Z'
 title: Personal perception of the universe artistically embodied by any conventional means is art.
 author: []
 sourcePath: _posts/2016-03-02-personal-perception-of-the-universe-artistically-embodied-by.md
@@ -18,13 +18,11 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: personal-perception-of-the-universe-artistically-embodied-by/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/466f1a1b-ba69-4be7-bb5b-ffe31c29e1e0.jpg)
-
 # Personal perception of the universe artistically embodied by any conventional means is art.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/466f1a1b-ba69-4be7-bb5b-ffe31c29e1e0.jpg)
 
 ## Art is a tender song, immortal, undefeatable, inherent to life
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/70c180de7c4608145638b3cc6f111d7b37045ce8.jpg)
