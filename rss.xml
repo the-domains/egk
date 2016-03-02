@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[egk]]></title>
-        <description><![CDATA[egk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Edmond Gabriel Kalandadze]]></title>
+        <description><![CDATA[Edmond Gabriel Kalandadze]]></description>
+        <link>https://thegrid.ai/egk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 16:40:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 17:11:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/egk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Personal perception of the universe artistically embodied by any conventional means is art.]]></title>
-            <description><![CDATA[<h1>Personal perception of the universe artistically embodied by any conventional means is art.</h1>]]></description>
-            <link>undefinedpersonal-perception-of-the-universe-artistically-embodied-by/index.html</link>
+            <description><![CDATA[<article><h1>Personal perception of the universe artistically embodied by any conventional means is art.</h1><h2>Art is a tender song, immortal, undefeatable, inherent to life</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f601a04f7046e16b2241a14963eb33650b41ccec.jpg"></article>]]></description>
+            <link>https://thegrid.ai/egk/personal-perception-of-the-universe-artistically-embodied-by/index.html</link>
             <guid isPermaLink="false">249acbf4-f011-422f-9e1f-bd14eb708163</guid>
-            <pubDate>Wed, 02 Mar 2016 16:40:48 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2016 17:11:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
