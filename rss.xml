@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[egk]]></title>
+        <description><![CDATA[egk]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Mar 2016 16:40:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Personal perception of the universe artistically embodied by any conventional means is art.]]></title>
+            <description><![CDATA[<h1>Personal perception of the universe artistically embodied by any conventional means is art.</h1>]]></description>
+            <link>undefinedpersonal-perception-of-the-universe-artistically-embodied-by/index.html</link>
+            <guid isPermaLink="false">249acbf4-f011-422f-9e1f-bd14eb708163</guid>
+            <pubDate>Wed, 02 Mar 2016 16:40:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
