@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T18:12:29.760Z'
-dateModified: '2016-03-02T18:11:57.329Z'
+datePublished: '2016-03-02T18:20:31.869Z'
+dateModified: '2016-03-02T18:20:26.929Z'
 title: Personal perception of the universe artistically embodied by any conventional means is art.
 author: []
 sourcePath: _posts/2016-03-02-personal-perception-of-the-universe-artistically-embodied-by.md
@@ -45,5 +45,5 @@ _type: Article
 
 EDMOND GABRIEL KALANDADZE (1923-2014)
 
-The artist paints figuratively and plays with all possible kinds of expressive forms. One of the most famous artists in his country, lauded by many awards. His paintings can be seen in the Georgian State Museum and in the National Galery in Tbilisi, in the Tretjakow Galery and in the Museum of Oriental Art in Moscow. For fourteen years he taught as a professor of drawing and painting at the State Academy. In 1991, after the independence from the the Soviet Union, Kalandadze was appointed the first Georgian Minister of Culture.
+The artist painted figuratively and played with all possible kinds of expressive forms. One of the most famous artists in his country, lauded by many awards. His paintings can be seen in the Georgian State Museum and in the National Galery in Tbilisi, in the Tretjakow Galery and in the Museum of Oriental Art in Moscow. For fourteen years he taught as a professor of drawing and painting at the State Academy. In 1991, after the independence from the the Soviet Union, Kalandadze was appointed the first Georgian Minister of Culture.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e53933318c872c5fdecf68387a7f4a7c78b2638f.jpg)
