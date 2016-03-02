@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T17:11:43.218Z'
-dateModified: '2016-03-02T17:11:09.395Z'
+datePublished: '2016-03-02T17:33:38.866Z'
+dateModified: '2016-03-02T17:33:12.955Z'
 title: Personal perception of the universe artistically embodied by any conventional means is art.
 author: []
 sourcePath: _posts/2016-03-02-personal-perception-of-the-universe-artistically-embodied-by.md
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 # Personal perception of the universe artistically embodied by any conventional means is art.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbedce69-fcc9-4183-9de4-d803cef54671.jpg)
 
 ## Art is a tender song, immortal, undefeatable, inherent to life
 
@@ -41,4 +40,9 @@ _type: Article
 
 > The art of painting is thinking in paints; it is a wish, a daring dream, to challenge transience, death, disappearance. And I am one simple man whose, only purpose is painting, and neither have I ever failed it nor has it ever failed me.
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73ef8507-7d87-4616-b23e-988c9db286dd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cac089e8-afb9-4294-b546-49f499169f3e.jpg)
+
+EDMOND GABRIEL KALANDADZE (1923-2014)
+
+The artist paints figuratively and plays with all possible kinds of expressive forms. One of the most famous artists in his country, lauded by many awards. His paintings can be seen in the Georgian State Museum and in the National Galery in Tbilisi, in the Tretjakow Galery and in the Museum of Oriental Art in Moscow. For fourteen years he taught as a professor of drawing and painting at the State Academy. In 1991, after the independence from the the Soviet Union, Kalandadze was appointed the first Georgian Minister of Culture.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec893af5-f753-496e-a67d-973608d4380d.jpg)
