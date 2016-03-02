@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T17:33:38.866Z'
-dateModified: '2016-03-02T17:33:12.955Z'
+datePublished: '2016-03-02T17:42:53.765Z'
+dateModified: '2016-03-02T17:41:59.043Z'
 title: Personal perception of the universe artistically embodied by any conventional means is art.
 author: []
 sourcePath: _posts/2016-03-02-personal-perception-of-the-universe-artistically-embodied-by.md
@@ -25,10 +25,11 @@ _type: Article
 # Personal perception of the universe artistically embodied by any conventional means is art.
 
 ## Art is a tender song, immortal, undefeatable, inherent to life
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44e533e7-d9e2-4feb-9943-ddacdf1df468.jpg)
 
 > As of my art, its source, the driving force that makes me go on working, that gives me no rest, I must confess I cannot explain
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/789695dd-669c-4f88-b03d-99921680cf89.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/313f78a4-8c40-4052-a49b-76c8c7ce4881.jpg)
 
 > From an early childhood, from the age I clearly remember, I used to watch endlessly, till overcome by giddiness, the brightly colored pebbles in the running streams, or the moonlit clouds in the night sky, my favorite pastime I shared with the whole mankind I was then sure.
 
