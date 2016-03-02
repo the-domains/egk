@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T18:20:31.869Z'
-dateModified: '2016-03-02T18:20:26.929Z'
+datePublished: '2016-03-02T18:38:46.870Z'
+dateModified: '2016-03-02T18:37:47.837Z'
 title: Personal perception of the universe artistically embodied by any conventional means is art.
 author: []
 sourcePath: _posts/2016-03-02-personal-perception-of-the-universe-artistically-embodied-by.md
@@ -27,7 +27,7 @@ _type: Article
 ## Art is a tender song, immortal, undefeatable, inherent to life
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/70c180de7c4608145638b3cc6f111d7b37045ce8.jpg)
 
-> As of my art, its source, the driving force that makes me go on working, that gives me no rest, I must confess I cannot explain
+> As of my art, its source, the driving force that makes me go on working, that gives me no rest, I must confess I cannot explain.
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/934e4a2cf5d8980f33b6d89f801a0c528106fbe2.jpg)
 
