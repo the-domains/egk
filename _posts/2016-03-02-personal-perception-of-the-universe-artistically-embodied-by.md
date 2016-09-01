@@ -1,24 +1,27 @@
 ---
+datePublished: '2016-08-30T09:25:06.710Z'
+sourcePath: >-
+  _posts/2016-03-02-personal-perception-of-the-universe-artistically-embodied-by.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: ''
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-03T07:00:36.578Z'
-dateModified: '2016-03-03T06:59:48.546Z'
-title: Personal perception of the universe artistically embodied by any conventional means is art.
-author: []
-sourcePath: _posts/2016-03-02-personal-perception-of-the-universe-artistically-embodied-by.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: false
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-30T09:25:05.609Z'
+title: >-
+  Personal perception of the universe artistically embodied by any conventional
+  means is art.
+publisher: {}
+description: >-
+  As of my art, its source, the driving force that makes me go on working, that
+  gives me no rest, I must confess I cannot explain.
+inLanguage: null
+inNav: false
+starred: false
 _type: Blurb
 
 ---
@@ -44,6 +47,4 @@ _type: Blurb
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e53933318c872c5fdecf68387a7f4a7c78b2638f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/90bd5913f9e41c07d71e65280fb83a08e51c3f43.jpg)
 
-EDMOND GABRIEL KALANDADZE (1923-2014)
-
-The artist painted figuratively and played with all possible kinds of expressive forms. One of the most famous artists in his country, lauded by many awards. His paintings can be seen in the Georgian State Museum and in the National Galery in Tbilisi, in the Tretjakow Galery and in the Museum of Oriental Art in Moscow. For fourteen years he taught as a professor of drawing and painting at the State Academy. In 1991, after the independence from the the Soviet Union, Kalandadze was appointed the first Georgian Minister of Culture.
+### The artist painted figuratively and played with all possible kinds of expressive forms. One of the most famous artists in his country, lauded by many awards. His paintings can be seen in the Georgian State Museum and in the National Gallery in Tbilisi, in the Tretjakow Gallery and in the Museum of Oriental Art in Moscow. For fourteen years he taught as a professor of drawing and painting at the State Academy. In 1991, after the independence from the the Soviet Union, Edmond Kalandadze was appointed the first Georgian Minister of Culture.
