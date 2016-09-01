@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T09:25:06.710Z'
+datePublished: '2016-08-30T11:40:12.987Z'
 sourcePath: >-
   _posts/2016-03-02-personal-perception-of-the-universe-artistically-embodied-by.md
 inFeed: true
@@ -11,7 +11,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-30T09:25:05.609Z'
+dateModified: '2016-08-30T11:40:12.032Z'
 title: >-
   Personal perception of the universe artistically embodied by any conventional
   means is art.
