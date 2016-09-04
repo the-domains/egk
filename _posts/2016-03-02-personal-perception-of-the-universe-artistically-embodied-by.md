@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T15:01:15.840Z'
+datePublished: '2016-09-01T15:05:42.937Z'
 sourcePath: >-
   _posts/2016-03-02-personal-perception-of-the-universe-artistically-embodied-by.md
 inFeed: true
@@ -11,7 +11,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-01T15:01:15.415Z'
+dateModified: '2016-09-01T15:05:41.859Z'
 title: >-
   Personal perception of the universe artistically embodied by any conventional
   means is art.
@@ -43,4 +43,4 @@ _type: Blurb
 > The art of painting is thinking in paints; it is a wish, a daring dream, to challenge transience, death, disappearance. And I am one simple man whose, only purpose is painting, and neither have I ever failed it nor has it ever failed me.
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e53933318c872c5fdecf68387a7f4a7c78b2638f.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/90bd5913f9e41c07d71e65280fb83a08e51c3f43.jpg)
+![The artist painted figuratively and played with all possible kinds of expressive forms. One of the most famous artists in his country, lauded by many awards. His paintings can be seen in the Georgian State Museum and in the National Galery in Tbilisi, in the Tretjakow Galery and in the Museum of Oriental Art in Moscow. For fourteen years he taught as a professor of drawing and painting at the State Academy. In 1991, after the independence from the the Soviet Union, Kalandadze was appointed the first Georgian Minister of Culture.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/90bd5913f9e41c07d71e65280fb83a08e51c3f43.jpg)
