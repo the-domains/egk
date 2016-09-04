@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T11:40:12.987Z'
+datePublished: '2016-09-01T14:03:15.336Z'
 sourcePath: >-
   _posts/2016-03-02-personal-perception-of-the-universe-artistically-embodied-by.md
 inFeed: true
@@ -11,7 +11,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-30T11:40:12.032Z'
+dateModified: '2016-09-01T14:03:14.707Z'
 title: >-
   Personal perception of the universe artistically embodied by any conventional
   means is art.
@@ -26,8 +26,6 @@ _type: Blurb
 
 ---
 # Personal perception of the universe artistically embodied by any conventional means is art.
-
-## Art is a tender song, immortal, undefeatable, inherent to life
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/70c180de7c4608145638b3cc6f111d7b37045ce8.jpg)
 
 > As of my art, its source, the driving force that makes me go on working, that gives me no rest, I must confess I cannot explain.
@@ -46,5 +44,3 @@ _type: Blurb
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e53933318c872c5fdecf68387a7f4a7c78b2638f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/90bd5913f9e41c07d71e65280fb83a08e51c3f43.jpg)
-
-### The artist painted figuratively and played with all possible kinds of expressive forms. One of the most famous artists in his country, lauded by many awards. His paintings can be seen in the Georgian State Museum and in the National Gallery in Tbilisi, in the Tretjakow Gallery and in the Museum of Oriental Art in Moscow. For fourteen years he taught as a professor of drawing and painting at the State Academy. In 1991, after the independence from the the Soviet Union, Edmond Kalandadze was appointed the first Georgian Minister of Culture.
